@@ -11,7 +11,7 @@
 
 
 ## My Skill Set  
-<table><tr><td align="center" valign="top" width="50%">
+<table><tr align="center"><td align="center" valign="top" width="50%">
 
 
 
@@ -21,7 +21,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="75" />  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td align="center" valign="top" width="50%">
 
 
 
