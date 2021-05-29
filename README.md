@@ -1,11 +1,11 @@
 ### <div align="center">I'm JaeHyub Yu, a Novice developer 🌱 studying backend 🌱</div>  
   
-<div align="center">
+
 - 🔭 I’m currently studying on [ITWILL](https://www.itwill.co.kr/)  
-</div>  
-<div align="center">
+
+
 - 🌱 I’m currently learning JAVA and Git  
-</div>  
+
 
 <br/>  
 
