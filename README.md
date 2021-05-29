@@ -1,4 +1,4 @@
-### <div align="center">I'm JaeHyub Yu, a Novice developer 🌱 studying backend 🌱</div><br/>  
+### <div align="center">I'm JaeHyub Yu, a novice developer 🌱 studying backend 🌱</div><br/>  
   
 
 - 🔭 I’m currently studying on [ITWILL](https://www.itwill.co.kr/)  
