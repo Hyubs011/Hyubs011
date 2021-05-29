@@ -1,8 +1,48 @@
-<h1 align="center">Hi 👋, I'm JaeHyub Yu</h1>
-<h3 align="center">Novice developer studying backend</h3>
+### <div align="center">I'm JaeHyub Yu, a Novice developer 🌱 studying backend 🌱</div>  
+  
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently studying on [ITWILL](https://www.itwill.co.kr/)  
+  
+
+- 🌱 I’m currently learning JAVA and Git  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="50%">
+
+
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
+</div>
+
+</td><td valign="top" width="50%">
+
+
+
+### DB  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" />  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Hyubs011&&style=flat-square" align="center" />
+</div>  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <!--
 **Hyubs011/Hyubs011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
