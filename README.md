@@ -9,7 +9,7 @@
 
 <br/>  
 
-## <div align="center">My Skill Set</div>  
+## <div>My Skill Set</div>  
 <table><tr><td align="center" valign="top" width="50%">
 
 
